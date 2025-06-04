@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "GURU App frontend with React Native",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarmitamajumdar/guru-app.git"
+  },
+  "keywords": [
+    "react-native",
+    "guru-app",
+    "elderly-chat"
+  ],
+  "author": "Sarmita Majumdar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarmitamajumdar/guru-app/issues"
+  },
+  "homepage": "https://github.com/sarmitamajumdar/guru-app#readme",
+  "dependencies": {
+    "@react-navigation/native": "^7.1.10"
+  }
+}
