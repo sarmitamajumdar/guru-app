@@ -1,0 +1,27 @@
+# Node modules
+**/node_modules/
+**/dist/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Expo and build
+*.log
+.expo
+.expo-shared
+*.apk
+*.aab
+web-build/
+android/
+ios/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/env/
+backend/venv/
