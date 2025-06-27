@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/sarmitamajumdar/guru-app#readme",
   "dependencies": {
-    "@react-navigation/native": "^7.1.10"
+    "@react-navigation/native": "^7.1.10",
+    "axios": "^1.10.0",
+    "expo": "^53.0.12",
+    "react-native": "^0.80.0"
   }
 }
