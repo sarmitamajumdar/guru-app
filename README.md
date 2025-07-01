@@ -1,4 +1,4 @@
-# 🧘 GURU App – Connect. Care. Communicate.
+#GURU App – Connect. Care. Communicate.
 
 GURU is an inclusive mobile app designed to connect elderly individuals with companions, counselors, and safety services. Built with empathy, it features multilingual real-time chat, translation, SOS safety tools, and a clean, accessible interface.
 
