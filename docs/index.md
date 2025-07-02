@@ -93,3 +93,29 @@ npm install
 
 # 3. Start the Expo server
 npx expo start
+
+---
+
+---
+
+## 📬 Contact Me
+
+   Have questions, ideas, or want to support the Guru App mission?
+
+- ✉  Email: [sarmitamajumdar@gmail.com](mailto:sarmitamajumdar@gmail.com)
+-     LinkedIn: [linkedin.com/in/sarmitamajumdar](https://www.linkedin.com/in/sarmitamajumdar)
+-     GitHub: [github.com/sarmitamajumdar](https://github.com/sarmitamajumdar)
+
+---
+
+## 💖 Support the Project
+
+If you believe in technology that **connects and heals**, please consider supporting the development of the Guru App.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/sarmitamajumdar)
+
+_Your support can help us make this app available to more elderly users across India._
+
+---
+
+
