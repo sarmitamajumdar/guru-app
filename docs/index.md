@@ -15,6 +15,50 @@ GURU is an inclusive mobile app designed to connect elderly individuals with com
 
 ---
 
+# 🙏 Guru App
+
+**A compassionate multilingual AI companion for the elderly**  
+Chat, get translations, send safety alerts — all from one place.
+
+---
+
+## 📱 Screenshots
+
+### 🏠 Home Screen  
+![Home Screen](assets/Home.png)
+
+---
+
+### 💬 Chat with Translation  
+![Chat Screen](assets/Chat.png)
+
+---
+
+### 🚨 SOS Safety Alert  
+![SOS](assets/SOS.png)
+
+---
+
+## 🔗 Live Documentation
+
+- 🔗 [GitHub Repository](https://github.com/sarmitamajumdar/guru-app)
+- 🌐 [Live Site](https://sarmitamajumdar.github.io/guru-app/)
+
+---
+
+## Built With
+
+- **Frontend**: React Native + Expo
+- **Backend**: FastAPI + Python
+- **API Services**: Google Translate, OpenAI
+- **Deployment**: GitHub Pages (Docs), Expo Go (App)
+
+---
+
+## 📂 Folder Structure
+
+
+
 ## Tech Stack
 
 | Layer       | Tech                             |
