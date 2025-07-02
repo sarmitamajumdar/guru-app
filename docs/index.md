@@ -1,21 +1,21 @@
-# 🧘 GURU App – Connect. Care. Communicate.
+# GURU App – Connect. Care. Communicate.
 
 GURU is an inclusive mobile app designed to connect elderly individuals with companions, counselors, and safety services. Built with empathy, it features multilingual real-time chat, translation, SOS safety tools, and a clean, accessible interface.
 
 ---
 
-## 📱 Features
+## Features
 
-- 🔒 Secure login & user profile setup
-- 🌍 Auto language translation in chats
-- 💬 Real-time messaging interface
-- 🆘 Emergency SOS button for safety
-- 🧭 Simple navigation & responsive UI
+- Secure login & user profile setup
+- Auto language translation in chats
+- Real-time messaging interface
+- Emergency SOS button for safety
+- Simple navigation & responsive UI
 - 🇮🇳 Indian language support built-in
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Layer       | Tech                             |
 |-------------|----------------------------------|
@@ -27,7 +27,7 @@ GURU is an inclusive mobile app designed to connect elderly individuals with com
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Replace with real screenshots
 
@@ -37,7 +37,7 @@ GURU is an inclusive mobile app designed to connect elderly individuals with com
 
 ---
 
-## 🛠️ Local Setup
+## Local Setup
 
 ```bash
 # 1. Clone the repository
