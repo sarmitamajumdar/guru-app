@@ -94,6 +94,8 @@ npm install
 # 3. Start the Expo server
 npx expo start
 
+---
+
 # Contact Me
 
    Have questions, ideas, or want to support the Guru App mission?
@@ -109,7 +111,7 @@ npx expo start
    
    No complicated features, just a kind voice that listens, reminds, shares spiritual words, and brings comfort.
    
-   [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/sarmitamajumdar)
+   [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](paypal.me/SMajumdar523)
    
    # Alternatively:
    I have launched a fundraising campaign on GoGetFunding to make this vision a reality:
